@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="PameData Logo" width="120"/>
+  <img src="logo.png" alt="PameData Logo" width="90"/>
 </p>
 
 # Analisis_Ventas_PowerBI_Python
